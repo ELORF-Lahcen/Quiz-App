@@ -59,7 +59,9 @@ public class Login extends JFrame implements ActionListener {
     @Override
     public void actionPerformed(ActionEvent e) {
         if (e.getSource() == next) {
-
+            String name = text.getText();
+            setVisible(false);
+            new Rules(name);
         } else if (e.getSource() == back) {
             System.exit(50);
         }
