@@ -41,7 +41,6 @@ A Java-based quiz application with a simple and interactive interface. The app l
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/elorf-lahcen/Quiz-App.git
-  ```
 
 --- 
 
