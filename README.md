@@ -85,7 +85,7 @@ A set of 10 questions for the user to answer, with a timer for each.
 4- **Score Screen**
 Displays the user's score after the quiz is completed.
 
-<img src="projectImages/5.PNG" width="700" height="auto" align="centre">
+<img src="projectImages/5.PNG" width="700" height="auto">
 
 ---
 
