@@ -68,24 +68,24 @@ Quiz-App/
 1- **Login Screen**
 The user is prompted to log in before starting the quiz.
 
-<img src="projectImages/1.PNG" width="500" height="auto">
+<img src="projectImages/1.PNG" width="700" height="auto">
   
 2- **Rules Screen**
 Displays the rules of the quiz to ensure all participants understand the conditions.
 
-<img src="projectImages/2.PNG" width="500" height="auto">
+<img src="projectImages/2.PNG" width="700" height="auto">
 
 3- **Quiz Questions and Answers**
 A set of 10 questions for the user to answer, with a timer for each.
 
-<img src="projectImages/3.PNG" width="500" height="auto">
+<img src="projectImages/3.PNG" width="700" height="auto">
 
-<img src="projectImages/4.PNG" width="500" height="auto">
+<img src="projectImages/4.PNG" width="700" height="auto">
 
 4- **Score Screen**
 Displays the user's score after the quiz is completed.
 
-<img src="projectImages/5.PNG" width="500" height="auto">
+<img src="projectImages/5.PNG" width="700" height="auto" align="centre">
 
 ---
 
